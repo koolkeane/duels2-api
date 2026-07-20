@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <!-- JitPack coordinate: com.github.koolkeane:duels2-api:<tag> -->
-  <groupId>com.github.koolkeane</groupId>
+  <!-- JitPack coordinate: com.github.skydrekdev:duels2-api:<tag> -->
+  <groupId>com.github.skydrekdev</groupId>
   <artifactId>duels2-api</artifactId>
   <!-- Released together with the Duels2 plugin: keep this version identical to it. -->
   <version>1.0.2</version>

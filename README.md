@@ -19,7 +19,7 @@ facade so addons and third-party plugins can hook into duels.
 
 <dependencies>
   <dependency>
-    <groupId>com.github.koolkeane</groupId>
+    <groupId>com.github.skydrekdev</groupId>
     <artifactId>duels2-api</artifactId>
     <version>1.0.2</version>
     <scope>provided</scope>
@@ -30,7 +30,7 @@ facade so addons and third-party plugins can hook into duels.
 **Gradle**
 ```groovy
 repositories { maven { url 'https://jitpack.io' } }
-dependencies { compileOnly 'com.github.koolkeane:duels2-api:1.0.2' }
+dependencies { compileOnly 'com.github.skydrekdev:duels2-api:1.0.2' }
 ```
 
 ## Get the API
